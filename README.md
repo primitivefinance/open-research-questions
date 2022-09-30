@@ -6,7 +6,7 @@ This is a collection of open research questions in the DeFi mechanism design spa
 
 ## Planned Posts
 
-- [x] Primitive Arbitrage
+- [x] [Primitive Arbitrage](https://primitivernd.substack.com/p/primitive-arbitrage)
 - [ ] Gamma Exposure and Loss-vs-Rebalancing 
 - [ ] Slippage Bounds on Dynamic Curves
 - [ ] Liquidity is Gamma
